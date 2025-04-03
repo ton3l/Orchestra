@@ -6,18 +6,18 @@
     android:viewportHeight="99">
   <path
       android:pathData="M80.847,25.454L63.743,31.079V55.794C63.742,59.451 62.504,63.002 60.225,65.884C57.945,68.766 54.756,70.814 51.164,71.702C47.571,72.59 43.781,72.267 40.396,70.784C37.01,69.302 34.224,66.745 32.478,63.52C30.733,60.294 30.129,56.586 30.763,52.983C31.396,49.38 33.231,46.089 35.975,43.634C38.719,41.178 42.215,39.699 45.909,39.43C49.602,39.161 53.281,40.118 56.36,42.15V15.484C56.36,13.189 57.091,10.953 58.45,9.091C59.809,7.229 61.727,5.836 63.932,5.11L78.606,0.28C79.439,0.006 80.325,-0.068 81.192,0.063C82.06,0.193 82.883,0.526 83.594,1.032C84.306,1.539 84.886,2.205 85.285,2.976C85.685,3.747 85.894,4.601 85.894,5.467V18.536C85.895,20.066 85.407,21.558 84.502,22.799C83.596,24.041 82.317,24.97 80.847,25.454Z">
-    <aapt:attr name="android:fillColor">
-      <gradient 
-          android:startX="58.206"
-          android:startY="0"
-          android:endX="58.206"
-          android:endY="72.192"
-          android:type="linear">
-        <item android:offset="0" android:color="#FF164E7A"/>
-        <item android:offset="1" android:color="#FF3E8BC6"/>
-        <item android:offset="0.5" android:color="#FF0069BB"/>
-      </gradient>
-    </aapt:attr>
+      <aapt:attr name="android:fillColor">
+        <gradient
+            android:startX="58.206"
+            android:startY="0"
+            android:endX="58.206"
+            android:endY="72.192"
+            android:type="linear">
+          <item android:offset="0" android:color="@color/design_default_gradient_1"/>
+          <item android:offset="0.5" android:color="@color/design_default_gradient_2"/>
+          <item android:offset="1" android:color="@color/design_default_gradient_3"/>
+        </gradient>
+      </aapt:attr>
   </path>
   <path
       android:pathData="M16.44,98.246C11.729,98.246 7.697,96.664 4.345,93.5C0.992,90.336 0.006,86.527 0,82.075V65.904C0,63.613 0.13,61.694 1.775,60.147C3.419,58.6 5.452,57.824 7.874,57.818C10.295,57.813 13.077,58.589 14.727,60.147C16.378,61.705 16.451,63.624 16.44,65.904V82.075H39.818H78.868V65.904C78.868,63.613 79.69,61.694 81.335,60.147C82.98,58.6 85.013,57.824 87.434,57.818C89.855,57.813 91.891,58.589 93.541,60.147C95.192,61.705 96.011,63.624 96,65.904V82.075C96,86.522 94.324,90.33 90.972,93.5C87.619,96.669 83.585,98.251 78.868,98.246H16.44Z">

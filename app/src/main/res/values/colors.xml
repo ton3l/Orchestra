@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background_light">#FFFFFF</color>
+
     <color name="design_default_color_primary">#1C77BE</color>
+    <color name="design_default_gradient_1">#FF164E7A</color>
+    <color name="design_default_gradient_2">#FF3E8BC6</color>
+    <color name="design_default_gradient_3">#FF0069BB</color>
+
+    <color name="background_dark">#1C1B1F</color>
+    <color name="background_nav_dark">#232323</color>
+    <color name="black">#FF000000</color>
 </resources>
