@@ -1,0 +1,45 @@
+# Arquivos específicos do Android Studio
+*.iml
+/.idea/
+/.idea/caches/
+/.idea/libraries/
+/idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Configurações locais do usuário
+/local.properties
+
+# Diretórios gerados automaticamente
+/build/
+/captures/
+/externalNativeBuild/
+/cxx/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Cache do Kotlin
+*.kotlin_metadata
+*.kotlin_module
+
+# Arquivos do Gradle (exceto o wrapper)
+.gradle/
+out/
+!gradle-wrapper.jar
+
+# Arquivos do emulador
+*.hprof
+
+# Certificados (caso use)
+*.keystore
+*.jks
